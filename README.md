@@ -207,36 +207,6 @@ Stored Procedures:   3
 - psql command-line tool or pgAdmin
 - Basic SQL knowledge
 
-### Step-by-Step Setup
-
-1. **Clone the Repository**
-   ```bash
-   git clone https://github.com/yourusername/sql-ecommerce-analytics.git
-   cd sql-ecommerce-analytics
-   ```
-
-2. **Create Database**
-   ```bash
-   createdb ecommerce_analytics
-   # Or using psql:
-   psql -U postgres
-   CREATE DATABASE ecommerce_analytics;
-   \c ecommerce_analytics
-   ```
-
-3. **Load Schema and Sample Data**
-   ```bash
-   psql -U postgres -d ecommerce_analytics -f 01_schema_and_data.sql
-   ```
-   
-   This creates all tables, loads 1,000+ sample orders, and sets up indexes.
-
-4. **Create Views and Functions**
-   ```bash
-   psql -U postgres -d ecommerce_analytics -f 03_views_and_functions.sql
-   ```
-   
-   This adds reusable views, functions, and stored procedures.
 
 5. **Verify Installation**
    ```sql
