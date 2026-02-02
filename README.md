@@ -35,7 +35,6 @@
 - [Analytics Library](#-analytics-library)
 - [Query Examples](#-query-examples)
 - [Performance](#-performance-optimization)
-- [Project Structure](#-project-structure)
 - [Skills Demonstrated](#-skills-demonstrated)
 - [Use Cases](#-use-cases)
 - [Contributing](#-contributing)
