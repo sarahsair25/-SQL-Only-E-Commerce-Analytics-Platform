@@ -529,42 +529,6 @@ REFRESH MATERIALIZED VIEW CONCURRENTLY mv_monthly_revenue;
 ✅ Partitioning recommendations for scaling beyond 1M rows  
 
 ---
-
-## 📁 Project Structure
-
-```
-sql-ecommerce-analytics/
-│
-├── 01_schema_and_data.sql          # Database schema + sample data generation
-│   ├── Table definitions (10 tables)
-│   ├── Foreign key constraints
-│   ├── Index creation
-│   ├── Sample data (1,000+ orders)
-│   └── Data verification queries
-│
-├── 02_analytics_queries.sql        # 30+ analytics queries
-│   ├── Sales Analytics (8 queries)
-│   ├── Product Analytics (7 queries)
-│   ├── Customer Analytics (9 queries)
-│   ├── Marketing Analytics (5 queries)
-│   ├── Operational Analytics (4 queries)
-│   └── Advanced Analytics (5 queries)
-│
-├── 03_views_and_functions.sql      # Reusable database objects
-│   ├── 5 Standard views
-│   ├── 2 Materialized views
-│   ├── 5 User-defined functions
-│   ├── 3 Stored procedures
-│   └── Triggers
-│
-├── README.md                        # This file
-├── LICENSE                          # MIT License
-└── docs/
-    ├── INSTALLATION.md             # Detailed setup guide
-    ├── QUERY_REFERENCE.md          # Query documentation
-    └── BUSINESS_CASES.md           # Use case examples
-```
-
 ---
 
 ## 🎓 Skills Demonstrated
