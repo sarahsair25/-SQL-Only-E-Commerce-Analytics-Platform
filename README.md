@@ -650,11 +650,6 @@ If you found this helpful:
 
 ---
 
-## 📊 Project Stats
-
-![GitHub stars](https://img.shields.io/github/stars/yourusername/sql-ecommerce-analytics?style=social)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/sql-ecommerce-analytics?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/yourusername/sql-ecommerce-analytics?style=social)
 
 **Built with 💙 and SQL**
 
@@ -665,8 +660,7 @@ If you found this helpful:
 - 📖 [Full Documentation](docs/INSTALLATION.md)
 - 🔍 [Query Reference](docs/QUERY_REFERENCE.md)
 - 💼 [Business Cases](docs/BUSINESS_CASES.md)
-- 🐛 [Report Issues](https://github.com/yourusername/sql-ecommerce-analytics/issues)
-- 💡 [Feature Requests](https://github.com/yourusername/sql-ecommerce-analytics/discussions)
+- 
 
 ---
 
