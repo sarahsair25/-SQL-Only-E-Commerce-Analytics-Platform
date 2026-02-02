@@ -1,4 +1,4 @@
-<img width="1536" height="1024" alt="Banner" src="https://github.com/user-attachments/assets/a4b45b25-e19f-4131-990c-3bd45a0991fa" />
+<img width="1536" height="2000" alt="Banner" src="https://github.com/user-attachments/assets/a4b45b25-e19f-4131-990c-3bd45a0991fa" />
 
 
 # 📊 SQL-Only E-Commerce Analytics Platform
