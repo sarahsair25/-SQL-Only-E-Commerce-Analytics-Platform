@@ -677,7 +677,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ```
 MIT License
 
-Copyright (c) 2026 [Your Name]
+Copyright (c) 2026 Sarah Sair
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -701,11 +701,10 @@ copies of the Software...
 
 **Questions? Feedback? Collaboration?**
 
-- 👤 **Author**: [Your Name]
-- 📧 **Email**: your.email@example.com
-- 💼 **LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- 🐙 **GitHub**: [@yourusername](https://github.com/yourusername)
-- 🌐 **Portfolio**: [yourwebsite.com](https://yourwebsite.com)
+- 👤 **Author**: Sarah sair
+- 📧 **Email**: Sarahsair@gmail.com 
+- 💼 **LinkedIn**: [linkedin.com/in/sarahsair](https://linkedin.com/in/sarahsair)
+- 🐙 **GitHub**: [@sarahsair25](https://sarahsair25)
 
 ### Support This Project
 
@@ -742,7 +741,7 @@ If you found this helpful:
 
 **Ready to dive into advanced SQL?**
 
-[Get Started](#-installation) | [View Queries](#-analytics-library) | [Star Repository ⭐](https://github.com/yourusername/sql-ecommerce-analytics)
+[Get Started](#-installation) | [View Queries](#-analytics-library) | [Star Repository ⭐](https://github.com/sarahsair25/-SQL-Only-E-Commerce-Analytics-Platform)
 
 ---
 
